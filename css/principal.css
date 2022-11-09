@@ -184,7 +184,6 @@ body {
     display: flex;
     flex: 1;
     background: #2d2d2d;
-    height: 100%;
     align-items: center;
     padding: 30px;
     min-width: 40%;
@@ -196,7 +195,7 @@ body {
     align-items: center;
     flex: 2;
     flex-wrap: wrap;
-    padding: 5%+5px;
+    padding: 2%+5px;
     background-color: #151515;
 }
 .contenido-pie .redes-sociales a {
